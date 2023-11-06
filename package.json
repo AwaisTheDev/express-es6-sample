@@ -37,7 +37,7 @@
     "presets": [
       "@babel/preset-env"
     ],
-    "plugins":["@babel/plugin-transform-unicode-sets-regex"]
+    "plugins":["transform-unicode-sets-regex"]
   },
   "jest": {
     "testEnvironment": "node"
